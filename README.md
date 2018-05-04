@@ -1,5 +1,5 @@
 # PEAQ
-This repo contains a matlab version the Perceived Evaluation of Audio Quality algorithm.
+This repo contains a matlab version the Perceptual Evaluation of Audio Quality algorithm.
 
 The idea was to isolate the algorithm and update it so it can run in newer versions of matlab. 
 
