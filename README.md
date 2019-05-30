@@ -2,6 +2,8 @@
 This repo contains a Matlab version of the Perceptual Evaluation of Audio Quality algorithm.
 
 The idea was to isolate the algorithm and update the code so it can run in newer versions of Matlab. 
+I am not maintaining the code and the code is provided as it is! 
+
 
 The algorithm was originally implemented by Peter Kabal in 2002 and the Matlab code is fetched from [jorgehatcrrma](https://github.com/jorgehatccrma)'s [repo](https://github.com/jorgehatccrma/AudioMorphing). 
 
